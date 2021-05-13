@@ -1,3 +1,3 @@
 # CookATool
 
-Source of the CookATool application and project documentation in PDF.
+Source of the CookATool application and project documentation in PDF (CookATool - Final report.pdf).

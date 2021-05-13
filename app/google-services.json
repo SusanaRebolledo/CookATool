@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "19612712185",
+    "project_id": "cookatool",
+    "storage_bucket": "cookatool.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:19612712185:android:1380f988177785be223628",
+        "android_client_info": {
+          "package_name": "com.example.cookatool"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "19612712185-5n8gjo68ii0fqc4tatbvohm4sjnj7pu7.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDR2VPBFcP-R_iu3noR47qbQWaLyEnddW4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "19612712185-5n8gjo68ii0fqc4tatbvohm4sjnj7pu7.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
